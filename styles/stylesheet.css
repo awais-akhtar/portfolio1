@@ -83,10 +83,6 @@
     text-decoration: none;
     color: var(--main-white);
   }
- 
- 
-  
-  /* nav */
   
   .nav {
     display: flex;
@@ -128,8 +124,6 @@
     background: var(--main-blue);
   }
   
-  /* Welcome section */
-  
   .welcome-section {
     display: flex;
     flex-direction: column;
@@ -148,7 +142,6 @@
     color: var(--main-red);
   }
   
-  /* Projects section */
   
   .projects-section {
     text-align: center;
@@ -240,8 +233,7 @@
     transform: translateX(0);
     transition: transform 0.3s ease-out;
   }
-  
-  /* Contact section */
+
   
   .contact-section {
     display: flex;
@@ -287,8 +279,6 @@
   .contact-details:hover {
     transform: translateY(8px);
   }
-  
-  /* Footer */
   
   footer {
     font-weight: 300;
